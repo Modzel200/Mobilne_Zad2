@@ -1,0 +1,36 @@
+Włączenie aplikacji: 
+2023-10-20 14:36:11.441  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  onCreate called
+2023-10-20 14:36:11.691  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  onStart called
+2023-10-20 14:36:11.694  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  OnResume called
+Wyłączenie aplikacji:
+2023-10-20 14:36:50.597  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  onPause called
+2023-10-20 14:36:50.637  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  OnStop called
+Włączenie aplikacji:
+2023-10-20 14:37:08.776  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  onStart called
+2023-10-20 14:37:08.777  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  OnResume called
+Obrócenie ekranu:
+2023-10-20 14:37:26.049  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  onPause called
+2023-10-20 14:37:26.060  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  OnStop called
+2023-10-20 14:37:26.062  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  OnDestroy called
+2023-10-20 14:37:26.099  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  onCreate called
+2023-10-20 14:37:26.136  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  onStart called
+2023-10-20 14:37:26.139  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  OnResume called
+onSaveInstanceState:
+2023-10-20 14:39:47.996  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  onCreate called
+2023-10-20 14:39:48.189  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  onStart called
+2023-10-20 14:39:48.192  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  OnResume called
+Wyłącznie:
+2023-10-20 14:40:27.081  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  onPause called
+2023-10-20 14:40:27.099  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  OnStop called
+2023-10-20 14:40:27.104  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  Wywołana została metoda: onSaveInstanceState
+Włączenie:
+2023-10-20 14:40:40.349  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  onStart called
+2023-10-20 14:40:40.350  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  OnResume called
+Obrócenie ekranu:
+2023-10-20 14:40:55.423  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  onPause called
+2023-10-20 14:40:55.428  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  OnStop called
+2023-10-20 14:40:55.429  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  Wywołana została metoda: onSaveInstanceState
+2023-10-20 14:40:55.432  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  OnDestroy called
+2023-10-20 14:40:55.478  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  onCreate called
+2023-10-20 14:40:55.512  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  onStart called
+2023-10-20 14:40:55.515  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  OnResume called
