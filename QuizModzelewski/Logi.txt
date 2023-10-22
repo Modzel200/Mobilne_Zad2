@@ -8,6 +8,7 @@ Wyłączenie aplikacji:
 Włączenie aplikacji:
 2023-10-20 14:37:08.776  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  onStart called
 2023-10-20 14:37:08.777  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  OnResume called
+2023-10-20 14:37:08.891  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  OnDestroy called
 Obrócenie ekranu:
 2023-10-20 14:37:26.049  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  onPause called
 2023-10-20 14:37:26.060  7633-7633  call                    pl.edu.pb.quizmodzelewski            D  OnStop called
@@ -34,3 +35,5 @@ Obrócenie ekranu:
 2023-10-20 14:40:55.478  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  onCreate called
 2023-10-20 14:40:55.512  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  onStart called
 2023-10-20 14:40:55.515  7955-7955  call                    pl.edu.pb.quizmodzelewski            D  OnResume called
+
+Różnica: zapis stanu aplikacji
